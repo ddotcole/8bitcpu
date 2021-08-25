@@ -44,12 +44,11 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.6" unit="in"/>
       <controlPoints>
-        <point x="0.7" y="2.2"/>
         <point x="0.8" y="2.2"/>
         <point x="0.9" y="2.2"/>
         <point x="1.0" y="2.2"/>
         <point x="1.1" y="2.2"/>
-        <point x="1.2" y="2.2"/>
+        <point x="1.2000000000000002" y="2.2"/>
         <point x="1.3" y="2.2"/>
         <point x="1.4" y="2.2"/>
         <point x="1.5" y="2.2"/>
@@ -58,12 +57,12 @@
         <point x="1.8" y="2.2"/>
         <point x="1.9" y="2.2"/>
         <point x="2.0" y="2.2"/>
-        <point x="0.7" y="1.6"/>
+        <point x="2.1" y="2.2"/>
         <point x="0.8" y="1.6"/>
         <point x="0.9" y="1.6"/>
         <point x="1.0" y="1.6"/>
         <point x="1.1" y="1.6"/>
-        <point x="1.2" y="1.6"/>
+        <point x="1.2000000000000002" y="1.6"/>
         <point x="1.3" y="1.6"/>
         <point x="1.4" y="1.6"/>
         <point x="1.5" y="1.6"/>
@@ -72,6 +71,7 @@
         <point x="1.8" y="1.6"/>
         <point x="1.9" y="1.6"/>
         <point x="2.0" y="1.6"/>
+        <point x="2.1" y="1.6"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -89,8 +89,7 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.6" unit="in"/>
       <controlPoints>
-        <point x="2.2" y="2.2"/>
-        <point x="2.3" y="2.2"/>
+        <point x="2.3000000000000003" y="2.2"/>
         <point x="2.4" y="2.2"/>
         <point x="2.5" y="2.2"/>
         <point x="2.6" y="2.2"/>
@@ -105,8 +104,8 @@
         <point x="3.5" y="2.2"/>
         <point x="3.6" y="2.2"/>
         <point x="3.7" y="2.2"/>
-        <point x="2.2" y="1.6"/>
-        <point x="2.3" y="1.6"/>
+        <point x="3.8" y="2.2"/>
+        <point x="2.3000000000000003" y="1.6"/>
         <point x="2.4" y="1.6"/>
         <point x="2.5" y="1.6"/>
         <point x="2.6" y="1.6"/>
@@ -121,6 +120,7 @@
         <point x="3.5" y="1.6"/>
         <point x="3.6" y="1.6"/>
         <point x="3.7" y="1.6"/>
+        <point x="3.8" y="1.6"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -138,38 +138,38 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.6" unit="in"/>
       <controlPoints>
-        <point x="3.9" y="2.2"/>
         <point x="4.0" y="2.2"/>
         <point x="4.1" y="2.2"/>
-        <point x="4.2" y="2.2"/>
+        <point x="4.199999999999999" y="2.2"/>
         <point x="4.3" y="2.2"/>
         <point x="4.4" y="2.2"/>
-        <point x="4.5" y="2.2"/>
+        <point x="4.500000000000001" y="2.2"/>
         <point x="4.6" y="2.2"/>
-        <point x="4.7" y="2.2"/>
+        <point x="4.699999999999999" y="2.2"/>
         <point x="4.8" y="2.2"/>
         <point x="4.9" y="2.2"/>
-        <point x="5.0" y="2.2"/>
+        <point x="5.000000000000001" y="2.2"/>
         <point x="5.1" y="2.2"/>
         <point x="5.2" y="2.2"/>
         <point x="5.3" y="2.2"/>
         <point x="5.4" y="2.2"/>
-        <point x="3.9" y="1.6"/>
+        <point x="5.5" y="2.2"/>
         <point x="4.0" y="1.6"/>
         <point x="4.1" y="1.6"/>
-        <point x="4.2" y="1.6"/>
+        <point x="4.199999999999999" y="1.6"/>
         <point x="4.3" y="1.6"/>
         <point x="4.4" y="1.6"/>
-        <point x="4.5" y="1.6"/>
+        <point x="4.500000000000001" y="1.6"/>
         <point x="4.6" y="1.6"/>
-        <point x="4.7" y="1.6"/>
+        <point x="4.699999999999999" y="1.6"/>
         <point x="4.8" y="1.6"/>
         <point x="4.9" y="1.6"/>
-        <point x="5.0" y="1.6"/>
+        <point x="5.000000000000001" y="1.6"/>
         <point x="5.1" y="1.6"/>
         <point x="5.2" y="1.6"/>
         <point x="5.3" y="1.6"/>
         <point x="5.4" y="1.6"/>
+        <point x="5.5" y="1.6"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -187,7 +187,6 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.6" unit="in"/>
       <controlPoints>
-        <point x="5.6" y="2.2"/>
         <point x="5.7" y="2.2"/>
         <point x="5.8" y="2.2"/>
         <point x="5.9" y="2.2"/>
@@ -203,7 +202,7 @@
         <point x="6.9" y="2.2"/>
         <point x="7.0" y="2.2"/>
         <point x="7.1" y="2.2"/>
-        <point x="5.6" y="1.6"/>
+        <point x="7.2" y="2.2"/>
         <point x="5.7" y="1.6"/>
         <point x="5.8" y="1.6"/>
         <point x="5.9" y="1.6"/>
@@ -219,6 +218,7 @@
         <point x="6.9" y="1.6"/>
         <point x="7.0" y="1.6"/>
         <point x="7.1" y="1.6"/>
+        <point x="7.2" y="1.6"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -236,7 +236,6 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.6" unit="in"/>
       <controlPoints>
-        <point x="7.3" y="2.2"/>
         <point x="7.4" y="2.2"/>
         <point x="7.5" y="2.2"/>
         <point x="7.6" y="2.2"/>
@@ -246,13 +245,13 @@
         <point x="8.0" y="2.2"/>
         <point x="8.1" y="2.2"/>
         <point x="8.2" y="2.2"/>
-        <point x="8.3" y="2.2"/>
+        <point x="8.299999999999999" y="2.2"/>
         <point x="8.4" y="2.2"/>
         <point x="8.5" y="2.2"/>
         <point x="8.6" y="2.2"/>
         <point x="8.7" y="2.2"/>
-        <point x="8.8" y="2.2"/>
-        <point x="7.3" y="1.6"/>
+        <point x="8.799999999999999" y="2.2"/>
+        <point x="8.9" y="2.2"/>
         <point x="7.4" y="1.6"/>
         <point x="7.5" y="1.6"/>
         <point x="7.6" y="1.6"/>
@@ -262,12 +261,13 @@
         <point x="8.0" y="1.6"/>
         <point x="8.1" y="1.6"/>
         <point x="8.2" y="1.6"/>
-        <point x="8.3" y="1.6"/>
+        <point x="8.299999999999999" y="1.6"/>
         <point x="8.4" y="1.6"/>
         <point x="8.5" y="1.6"/>
         <point x="8.6" y="1.6"/>
         <point x="8.7" y="1.6"/>
-        <point x="8.8" y="1.6"/>
+        <point x="8.799999999999999" y="1.6"/>
+        <point x="8.9" y="1.6"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -285,36 +285,36 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.6" unit="in"/>
       <controlPoints>
-        <point x="0.7" y="1.2"/>
-        <point x="0.8" y="1.2"/>
-        <point x="0.9" y="1.2"/>
-        <point x="1.0" y="1.2"/>
-        <point x="1.1" y="1.2"/>
-        <point x="1.2" y="1.2"/>
-        <point x="1.3" y="1.2"/>
-        <point x="1.4" y="1.2"/>
-        <point x="1.5" y="1.2"/>
-        <point x="1.6" y="1.2"/>
-        <point x="1.7" y="1.2"/>
-        <point x="1.8" y="1.2"/>
-        <point x="1.9" y="1.2"/>
-        <point x="2.0" y="1.2"/>
-        <point x="2.1" y="1.2"/>
-        <point x="0.7" y="0.6"/>
-        <point x="0.8" y="0.6"/>
-        <point x="0.9" y="0.6"/>
-        <point x="1.0" y="0.6"/>
-        <point x="1.1" y="0.6"/>
-        <point x="1.2" y="0.6"/>
-        <point x="1.3" y="0.6"/>
-        <point x="1.4" y="0.6"/>
-        <point x="1.5" y="0.6"/>
-        <point x="1.6" y="0.6"/>
-        <point x="1.7" y="0.6"/>
-        <point x="1.8" y="0.6"/>
-        <point x="1.9" y="0.6"/>
-        <point x="2.0" y="0.6"/>
-        <point x="2.1" y="0.6"/>
+        <point x="0.8" y="1.3"/>
+        <point x="0.9" y="1.3"/>
+        <point x="1.0" y="1.3"/>
+        <point x="1.1" y="1.3"/>
+        <point x="1.2000000000000002" y="1.3"/>
+        <point x="1.3" y="1.3"/>
+        <point x="1.4" y="1.3"/>
+        <point x="1.5" y="1.3"/>
+        <point x="1.6" y="1.3"/>
+        <point x="1.7" y="1.3"/>
+        <point x="1.8" y="1.3"/>
+        <point x="1.9" y="1.3"/>
+        <point x="2.0" y="1.3"/>
+        <point x="2.1" y="1.3"/>
+        <point x="2.2" y="1.3"/>
+        <point x="0.8" y="0.7"/>
+        <point x="0.9" y="0.7"/>
+        <point x="1.0" y="0.7"/>
+        <point x="1.1" y="0.7"/>
+        <point x="1.2000000000000002" y="0.7"/>
+        <point x="1.3" y="0.7"/>
+        <point x="1.4" y="0.7"/>
+        <point x="1.5" y="0.7"/>
+        <point x="1.6" y="0.7"/>
+        <point x="1.7" y="0.7"/>
+        <point x="1.8" y="0.7"/>
+        <point x="1.9" y="0.7"/>
+        <point x="2.0" y="0.7"/>
+        <point x="2.1" y="0.7"/>
+        <point x="2.2" y="0.7"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -332,22 +332,22 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.3" unit="in"/>
       <controlPoints>
-        <point x="2.3" y="1.2"/>
-        <point x="2.4" y="1.2"/>
-        <point x="2.5" y="1.2"/>
-        <point x="2.6" y="1.2"/>
-        <point x="2.7" y="1.2"/>
-        <point x="2.8" y="1.2"/>
-        <point x="2.9" y="1.2"/>
-        <point x="3.0" y="1.2"/>
-        <point x="2.3" y="0.9"/>
-        <point x="2.4" y="0.9"/>
-        <point x="2.5" y="0.9"/>
-        <point x="2.6" y="0.9"/>
-        <point x="2.7" y="0.9"/>
-        <point x="2.8" y="0.9"/>
-        <point x="2.9" y="0.9"/>
-        <point x="3.0" y="0.9"/>
+        <point x="2.4" y="1.3"/>
+        <point x="2.5" y="1.3"/>
+        <point x="2.6" y="1.3"/>
+        <point x="2.7" y="1.3"/>
+        <point x="2.8" y="1.3"/>
+        <point x="2.9" y="1.3"/>
+        <point x="3.0" y="1.3"/>
+        <point x="3.1" y="1.3"/>
+        <point x="2.4" y="1.0"/>
+        <point x="2.5" y="1.0"/>
+        <point x="2.6" y="1.0"/>
+        <point x="2.7" y="1.0"/>
+        <point x="2.8" y="1.0"/>
+        <point x="2.9" y="1.0"/>
+        <point x="3.0" y="1.0"/>
+        <point x="3.1" y="1.0"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -365,22 +365,22 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.3" unit="in"/>
       <controlPoints>
-        <point x="3.2" y="1.2"/>
-        <point x="3.3" y="1.2"/>
-        <point x="3.4" y="1.2"/>
-        <point x="3.5" y="1.2"/>
-        <point x="3.6" y="1.2"/>
-        <point x="3.7" y="1.2"/>
-        <point x="3.8" y="1.2"/>
-        <point x="3.9" y="1.2"/>
-        <point x="3.2" y="0.9"/>
-        <point x="3.3" y="0.9"/>
-        <point x="3.4" y="0.9"/>
-        <point x="3.5" y="0.9"/>
-        <point x="3.6" y="0.9"/>
-        <point x="3.7" y="0.9"/>
-        <point x="3.8" y="0.9"/>
-        <point x="3.9" y="0.9"/>
+        <point x="3.3" y="1.3"/>
+        <point x="3.4" y="1.3"/>
+        <point x="3.5" y="1.3"/>
+        <point x="3.6" y="1.3"/>
+        <point x="3.7" y="1.3"/>
+        <point x="3.8" y="1.3"/>
+        <point x="3.9" y="1.3"/>
+        <point x="4.0" y="1.3"/>
+        <point x="3.3" y="1.0"/>
+        <point x="3.4" y="1.0"/>
+        <point x="3.5" y="1.0"/>
+        <point x="3.6" y="1.0"/>
+        <point x="3.7" y="1.0"/>
+        <point x="3.8" y="1.0"/>
+        <point x="3.9" y="1.0"/>
+        <point x="4.0" y="1.0"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -398,22 +398,22 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.3" unit="in"/>
       <controlPoints>
-        <point x="4.1" y="1.2"/>
-        <point x="4.2" y="1.2"/>
-        <point x="4.3" y="1.2"/>
-        <point x="4.4" y="1.2"/>
-        <point x="4.5" y="1.2"/>
-        <point x="4.6" y="1.2"/>
-        <point x="4.7" y="1.2"/>
-        <point x="4.8" y="1.2"/>
-        <point x="4.1" y="0.9"/>
-        <point x="4.2" y="0.9"/>
-        <point x="4.3" y="0.9"/>
-        <point x="4.4" y="0.9"/>
-        <point x="4.5" y="0.9"/>
-        <point x="4.6" y="0.9"/>
-        <point x="4.7" y="0.9"/>
-        <point x="4.8" y="0.9"/>
+        <point x="4.199999999999999" y="1.3"/>
+        <point x="4.3" y="1.3"/>
+        <point x="4.4" y="1.3"/>
+        <point x="4.500000000000001" y="1.3"/>
+        <point x="4.6" y="1.3"/>
+        <point x="4.699999999999999" y="1.3"/>
+        <point x="4.8" y="1.3"/>
+        <point x="4.9" y="1.3"/>
+        <point x="4.199999999999999" y="1.0"/>
+        <point x="4.3" y="1.0"/>
+        <point x="4.4" y="1.0"/>
+        <point x="4.500000000000001" y="1.0"/>
+        <point x="4.6" y="1.0"/>
+        <point x="4.699999999999999" y="1.0"/>
+        <point x="4.8" y="1.0"/>
+        <point x="4.9" y="1.0"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -431,22 +431,22 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.3" unit="in"/>
       <controlPoints>
-        <point x="5.0" y="1.2"/>
-        <point x="5.1" y="1.2"/>
-        <point x="5.2" y="1.2"/>
-        <point x="5.3" y="1.2"/>
-        <point x="5.4" y="1.2"/>
-        <point x="5.5" y="1.2"/>
-        <point x="5.6" y="1.2"/>
-        <point x="5.7" y="1.2"/>
-        <point x="5.0" y="0.9"/>
-        <point x="5.1" y="0.9"/>
-        <point x="5.2" y="0.9"/>
-        <point x="5.3" y="0.9"/>
-        <point x="5.4" y="0.9"/>
-        <point x="5.5" y="0.9"/>
-        <point x="5.6" y="0.9"/>
-        <point x="5.7" y="0.9"/>
+        <point x="5.1" y="1.3"/>
+        <point x="5.2" y="1.3"/>
+        <point x="5.3" y="1.3"/>
+        <point x="5.4" y="1.3"/>
+        <point x="5.5" y="1.3"/>
+        <point x="5.6" y="1.3"/>
+        <point x="5.7" y="1.3"/>
+        <point x="5.8" y="1.3"/>
+        <point x="5.1" y="1.0"/>
+        <point x="5.2" y="1.0"/>
+        <point x="5.3" y="1.0"/>
+        <point x="5.4" y="1.0"/>
+        <point x="5.5" y="1.0"/>
+        <point x="5.6" y="1.0"/>
+        <point x="5.7" y="1.0"/>
+        <point x="5.8" y="1.0"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -464,22 +464,22 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.3" unit="in"/>
       <controlPoints>
-        <point x="5.9" y="1.2"/>
-        <point x="6.0" y="1.2"/>
-        <point x="6.1" y="1.2"/>
-        <point x="6.2" y="1.2"/>
-        <point x="6.3" y="1.2"/>
-        <point x="6.4" y="1.2"/>
-        <point x="6.5" y="1.2"/>
-        <point x="6.6" y="1.2"/>
-        <point x="5.9" y="0.9"/>
-        <point x="6.0" y="0.9"/>
-        <point x="6.1" y="0.9"/>
-        <point x="6.2" y="0.9"/>
-        <point x="6.3" y="0.9"/>
-        <point x="6.4" y="0.9"/>
-        <point x="6.5" y="0.9"/>
-        <point x="6.6" y="0.9"/>
+        <point x="6.0" y="1.3"/>
+        <point x="6.1" y="1.3"/>
+        <point x="6.2" y="1.3"/>
+        <point x="6.3" y="1.3"/>
+        <point x="6.4" y="1.3"/>
+        <point x="6.5" y="1.3"/>
+        <point x="6.6" y="1.3"/>
+        <point x="6.7" y="1.3"/>
+        <point x="6.0" y="1.0"/>
+        <point x="6.1" y="1.0"/>
+        <point x="6.2" y="1.0"/>
+        <point x="6.3" y="1.0"/>
+        <point x="6.4" y="1.0"/>
+        <point x="6.5" y="1.0"/>
+        <point x="6.6" y="1.0"/>
+        <point x="6.7" y="1.0"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
@@ -497,22 +497,1196 @@
       <pinSpacing value="0.1" unit="in"/>
       <rowSpacing value="0.3" unit="in"/>
       <controlPoints>
-        <point x="6.8" y="1.2"/>
-        <point x="6.9" y="1.2"/>
-        <point x="7.0" y="1.2"/>
-        <point x="7.1" y="1.2"/>
-        <point x="7.2" y="1.2"/>
-        <point x="7.3" y="1.2"/>
-        <point x="7.4" y="1.2"/>
-        <point x="7.5" y="1.2"/>
-        <point x="6.8" y="0.9"/>
-        <point x="6.9" y="0.9"/>
-        <point x="7.0" y="0.9"/>
-        <point x="7.1" y="0.9"/>
-        <point x="7.2" y="0.9"/>
-        <point x="7.3" y="0.9"/>
-        <point x="7.4" y="0.9"/>
-        <point x="7.5" y="0.9"/>
+        <point x="6.9" y="1.3"/>
+        <point x="7.0" y="1.3"/>
+        <point x="7.1" y="1.3"/>
+        <point x="7.2" y="1.3"/>
+        <point x="7.3" y="1.3"/>
+        <point x="7.4" y="1.3"/>
+        <point x="7.5" y="1.3"/>
+        <point x="7.6" y="1.3"/>
+        <point x="6.9" y="1.0"/>
+        <point x="7.0" y="1.0"/>
+        <point x="7.1" y="1.0"/>
+        <point x="7.2" y="1.0"/>
+        <point x="7.3" y="1.0"/>
+        <point x="7.4" y="1.0"/>
+        <point x="7.5" y="1.0"/>
+        <point x="7.6" y="1.0"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>PC3</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="7.8" y="1.3"/>
+        <point x="7.9" y="1.3"/>
+        <point x="8.0" y="1.3"/>
+        <point x="8.1" y="1.3"/>
+        <point x="8.2" y="1.3"/>
+        <point x="8.3" y="1.3"/>
+        <point x="8.4" y="1.3"/>
+        <point x="8.5" y="1.3"/>
+        <point x="7.8" y="1.0"/>
+        <point x="7.9" y="1.0"/>
+        <point x="8.0" y="1.0"/>
+        <point x="8.1" y="1.0"/>
+        <point x="8.2" y="1.0"/>
+        <point x="8.3" y="1.0"/>
+        <point x="8.4" y="1.0"/>
+        <point x="8.5" y="1.0"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>PC4</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="8.7" y="1.3"/>
+        <point x="8.8" y="1.3"/>
+        <point x="8.9" y="1.3"/>
+        <point x="9.0" y="1.3"/>
+        <point x="9.1" y="1.3"/>
+        <point x="9.2" y="1.3"/>
+        <point x="9.3" y="1.3"/>
+        <point x="9.4" y="1.3"/>
+        <point x="8.7" y="1.0"/>
+        <point x="8.8" y="1.0"/>
+        <point x="8.9" y="1.0"/>
+        <point x="9.0" y="1.0"/>
+        <point x="9.1" y="1.0"/>
+        <point x="9.2" y="1.0"/>
+        <point x="9.3" y="1.0"/>
+        <point x="9.4" y="1.0"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>MAR LOW</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="0.8" y="2.8"/>
+        <point x="0.9" y="2.8"/>
+        <point x="1.0" y="2.8"/>
+        <point x="1.1" y="2.8"/>
+        <point x="1.2" y="2.8"/>
+        <point x="1.3" y="2.8"/>
+        <point x="1.4" y="2.8"/>
+        <point x="1.5" y="2.8"/>
+        <point x="1.6" y="2.8"/>
+        <point x="1.7" y="2.8"/>
+        <point x="0.8" y="2.5"/>
+        <point x="0.9" y="2.5"/>
+        <point x="1.0" y="2.5"/>
+        <point x="1.1" y="2.5"/>
+        <point x="1.2" y="2.5"/>
+        <point x="1.3" y="2.5"/>
+        <point x="1.4" y="2.5"/>
+        <point x="1.5" y="2.5"/>
+        <point x="1.6" y="2.5"/>
+        <point x="1.7" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>MAR HIGH</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="1.9" y="2.8"/>
+        <point x="2.0" y="2.8"/>
+        <point x="2.1" y="2.8"/>
+        <point x="2.2" y="2.8"/>
+        <point x="2.3" y="2.8"/>
+        <point x="2.4" y="2.8"/>
+        <point x="2.5" y="2.8"/>
+        <point x="2.6" y="2.8"/>
+        <point x="2.7" y="2.8"/>
+        <point x="2.8" y="2.8"/>
+        <point x="1.9" y="2.5"/>
+        <point x="2.0" y="2.5"/>
+        <point x="2.1" y="2.5"/>
+        <point x="2.2" y="2.5"/>
+        <point x="2.3" y="2.5"/>
+        <point x="2.4" y="2.5"/>
+        <point x="2.5" y="2.5"/>
+        <point x="2.6" y="2.5"/>
+        <point x="2.7" y="2.5"/>
+        <point x="2.8" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>DB/AB to MAR 1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="3.0" y="2.8"/>
+        <point x="3.1" y="2.8"/>
+        <point x="3.2" y="2.8"/>
+        <point x="3.3" y="2.8"/>
+        <point x="3.4" y="2.8"/>
+        <point x="3.5" y="2.8"/>
+        <point x="3.6" y="2.8"/>
+        <point x="3.7" y="2.8"/>
+        <point x="3.0" y="2.5"/>
+        <point x="3.1" y="2.5"/>
+        <point x="3.2" y="2.5"/>
+        <point x="3.3" y="2.5"/>
+        <point x="3.4" y="2.5"/>
+        <point x="3.5" y="2.5"/>
+        <point x="3.6" y="2.5"/>
+        <point x="3.7" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>DB/AB to MAR 2</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="3.9" y="2.8"/>
+        <point x="4.0" y="2.8"/>
+        <point x="4.1" y="2.8"/>
+        <point x="4.2" y="2.8"/>
+        <point x="4.3" y="2.8"/>
+        <point x="4.4" y="2.8"/>
+        <point x="4.5" y="2.8"/>
+        <point x="4.6" y="2.8"/>
+        <point x="3.9" y="2.5"/>
+        <point x="4.0" y="2.5"/>
+        <point x="4.1" y="2.5"/>
+        <point x="4.2" y="2.5"/>
+        <point x="4.3" y="2.5"/>
+        <point x="4.4" y="2.5"/>
+        <point x="4.5" y="2.5"/>
+        <point x="4.6" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>DB/AB to MAR 3</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="4.8" y="2.8"/>
+        <point x="4.9" y="2.8"/>
+        <point x="5.0" y="2.8"/>
+        <point x="5.1" y="2.8"/>
+        <point x="5.2" y="2.8"/>
+        <point x="5.3" y="2.8"/>
+        <point x="5.4" y="2.8"/>
+        <point x="5.5" y="2.8"/>
+        <point x="4.8" y="2.5"/>
+        <point x="4.9" y="2.5"/>
+        <point x="5.0" y="2.5"/>
+        <point x="5.1" y="2.5"/>
+        <point x="5.2" y="2.5"/>
+        <point x="5.3" y="2.5"/>
+        <point x="5.4" y="2.5"/>
+        <point x="5.5" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>DB/AB to MAR 4</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="5.7" y="2.8"/>
+        <point x="5.8" y="2.8"/>
+        <point x="5.9" y="2.8"/>
+        <point x="6.0" y="2.8"/>
+        <point x="6.1" y="2.8"/>
+        <point x="6.2" y="2.8"/>
+        <point x="6.3" y="2.8"/>
+        <point x="6.4" y="2.8"/>
+        <point x="5.7" y="2.5"/>
+        <point x="5.8" y="2.5"/>
+        <point x="5.9" y="2.5"/>
+        <point x="6.0" y="2.5"/>
+        <point x="6.1" y="2.5"/>
+        <point x="6.2" y="2.5"/>
+        <point x="6.3" y="2.5"/>
+        <point x="6.4" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>AB to DB LOW</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="6.6" y="2.8"/>
+        <point x="6.7" y="2.8"/>
+        <point x="6.8" y="2.8"/>
+        <point x="6.9" y="2.8"/>
+        <point x="7.0" y="2.8"/>
+        <point x="7.1" y="2.8"/>
+        <point x="7.2" y="2.8"/>
+        <point x="7.3" y="2.8"/>
+        <point x="7.4" y="2.8"/>
+        <point x="7.5" y="2.8"/>
+        <point x="6.6" y="2.5"/>
+        <point x="6.7" y="2.5"/>
+        <point x="6.8" y="2.5"/>
+        <point x="6.9" y="2.5"/>
+        <point x="7.0" y="2.5"/>
+        <point x="7.1" y="2.5"/>
+        <point x="7.2" y="2.5"/>
+        <point x="7.3" y="2.5"/>
+        <point x="7.4" y="2.5"/>
+        <point x="7.5" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>AB to DB HIGH</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="7.7" y="2.8"/>
+        <point x="7.8" y="2.8"/>
+        <point x="7.9" y="2.8"/>
+        <point x="8.0" y="2.8"/>
+        <point x="8.1" y="2.8"/>
+        <point x="8.2" y="2.8"/>
+        <point x="8.3" y="2.8"/>
+        <point x="8.4" y="2.8"/>
+        <point x="8.5" y="2.8"/>
+        <point x="8.6" y="2.8"/>
+        <point x="7.7" y="2.5"/>
+        <point x="7.8" y="2.5"/>
+        <point x="7.9" y="2.5"/>
+        <point x="8.0" y="2.5"/>
+        <point x="8.1" y="2.5"/>
+        <point x="8.2" y="2.5"/>
+        <point x="8.3" y="2.5"/>
+        <point x="8.4" y="2.5"/>
+        <point x="8.5" y="2.5"/>
+        <point x="8.6" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>B</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="0.8" y="3.4"/>
+        <point x="0.9" y="3.4"/>
+        <point x="1.0" y="3.4"/>
+        <point x="1.1" y="3.4"/>
+        <point x="1.2" y="3.4"/>
+        <point x="1.3" y="3.4"/>
+        <point x="1.4" y="3.4"/>
+        <point x="1.5" y="3.4"/>
+        <point x="1.6" y="3.4"/>
+        <point x="1.7" y="3.4"/>
+        <point x="0.8" y="3.1"/>
+        <point x="0.9" y="3.1"/>
+        <point x="1.0" y="3.1"/>
+        <point x="1.1" y="3.1"/>
+        <point x="1.2" y="3.1"/>
+        <point x="1.3" y="3.1"/>
+        <point x="1.4" y="3.1"/>
+        <point x="1.5" y="3.1"/>
+        <point x="1.6" y="3.1"/>
+        <point x="1.7" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>B to DB</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="1.9" y="3.4"/>
+        <point x="2.0" y="3.4"/>
+        <point x="2.1" y="3.4"/>
+        <point x="2.2" y="3.4"/>
+        <point x="2.3" y="3.4"/>
+        <point x="2.4" y="3.4"/>
+        <point x="2.5" y="3.4"/>
+        <point x="2.6" y="3.4"/>
+        <point x="2.7" y="3.4"/>
+        <point x="2.8" y="3.4"/>
+        <point x="1.9" y="3.1"/>
+        <point x="2.0" y="3.1"/>
+        <point x="2.1" y="3.1"/>
+        <point x="2.2" y="3.1"/>
+        <point x="2.3" y="3.1"/>
+        <point x="2.4" y="3.1"/>
+        <point x="2.5" y="3.1"/>
+        <point x="2.6" y="3.1"/>
+        <point x="2.7" y="3.1"/>
+        <point x="2.8" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>R</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="3.0" y="3.4"/>
+        <point x="3.1" y="3.4"/>
+        <point x="3.2" y="3.4"/>
+        <point x="3.3" y="3.4"/>
+        <point x="3.4" y="3.4"/>
+        <point x="3.5" y="3.4"/>
+        <point x="3.6" y="3.4"/>
+        <point x="3.7" y="3.4"/>
+        <point x="3.8" y="3.4"/>
+        <point x="3.9" y="3.4"/>
+        <point x="3.0" y="3.1"/>
+        <point x="3.1" y="3.1"/>
+        <point x="3.2" y="3.1"/>
+        <point x="3.3" y="3.1"/>
+        <point x="3.4" y="3.1"/>
+        <point x="3.5" y="3.1"/>
+        <point x="3.6" y="3.1"/>
+        <point x="3.7" y="3.1"/>
+        <point x="3.8" y="3.1"/>
+        <point x="3.9" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>MEMORY CONTROLLER</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="9.2" y="2.2"/>
+        <point x="9.3" y="2.2"/>
+        <point x="9.4" y="2.2"/>
+        <point x="9.5" y="2.2"/>
+        <point x="9.6" y="2.2"/>
+        <point x="9.7" y="2.2"/>
+        <point x="9.8" y="2.2"/>
+        <point x="9.9" y="2.2"/>
+        <point x="10.0" y="2.2"/>
+        <point x="10.1" y="2.2"/>
+        <point x="9.2" y="1.9"/>
+        <point x="9.3" y="1.9"/>
+        <point x="9.4" y="1.9"/>
+        <point x="9.5" y="1.9"/>
+        <point x="9.6" y="1.9"/>
+        <point x="9.7" y="1.9"/>
+        <point x="9.8" y="1.9"/>
+        <point x="9.9" y="1.9"/>
+        <point x="10.0" y="1.9"/>
+        <point x="10.1" y="1.9"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>ADDRESS CONTROLLER</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="9.2" y="2.8"/>
+        <point x="9.3" y="2.8"/>
+        <point x="9.4" y="2.8"/>
+        <point x="9.5" y="2.8"/>
+        <point x="9.6" y="2.8"/>
+        <point x="9.7" y="2.8"/>
+        <point x="9.8" y="2.8"/>
+        <point x="9.9" y="2.8"/>
+        <point x="10.0" y="2.8"/>
+        <point x="10.1" y="2.8"/>
+        <point x="9.2" y="2.5"/>
+        <point x="9.3" y="2.5"/>
+        <point x="9.4" y="2.5"/>
+        <point x="9.5" y="2.5"/>
+        <point x="9.6" y="2.5"/>
+        <point x="9.7" y="2.5"/>
+        <point x="9.8" y="2.5"/>
+        <point x="9.9" y="2.5"/>
+        <point x="10.0" y="2.5"/>
+        <point x="10.1" y="2.5"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>ALU TO R</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="4.1" y="3.4"/>
+        <point x="4.2" y="3.4"/>
+        <point x="4.3" y="3.4"/>
+        <point x="4.4" y="3.4"/>
+        <point x="4.5" y="3.4"/>
+        <point x="4.6" y="3.4"/>
+        <point x="4.7" y="3.4"/>
+        <point x="4.8" y="3.4"/>
+        <point x="4.9" y="3.4"/>
+        <point x="5.0" y="3.4"/>
+        <point x="4.1" y="3.1"/>
+        <point x="4.2" y="3.1"/>
+        <point x="4.3" y="3.1"/>
+        <point x="4.4" y="3.1"/>
+        <point x="4.5" y="3.1"/>
+        <point x="4.6" y="3.1"/>
+        <point x="4.7" y="3.1"/>
+        <point x="4.8" y="3.1"/>
+        <point x="4.9" y="3.1"/>
+        <point x="5.0" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>ALU LOW</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="5.2" y="3.4"/>
+        <point x="5.3" y="3.4"/>
+        <point x="5.4" y="3.4"/>
+        <point x="5.5" y="3.4"/>
+        <point x="5.6" y="3.4"/>
+        <point x="5.7" y="3.4"/>
+        <point x="5.8" y="3.4"/>
+        <point x="5.9" y="3.4"/>
+        <point x="5.2" y="3.1"/>
+        <point x="5.3" y="3.1"/>
+        <point x="5.4" y="3.1"/>
+        <point x="5.5" y="3.1"/>
+        <point x="5.6" y="3.1"/>
+        <point x="5.7" y="3.1"/>
+        <point x="5.8" y="3.1"/>
+        <point x="5.9" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>ALU HIGH</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="6.1" y="3.4"/>
+        <point x="6.2" y="3.4"/>
+        <point x="6.3" y="3.4"/>
+        <point x="6.4" y="3.4"/>
+        <point x="6.5" y="3.4"/>
+        <point x="6.6" y="3.4"/>
+        <point x="6.7" y="3.4"/>
+        <point x="6.8" y="3.4"/>
+        <point x="6.1" y="3.1"/>
+        <point x="6.2" y="3.1"/>
+        <point x="6.3" y="3.1"/>
+        <point x="6.4" y="3.1"/>
+        <point x="6.5" y="3.1"/>
+        <point x="6.6" y="3.1"/>
+        <point x="6.7" y="3.1"/>
+        <point x="6.8" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>LOGIC TO R</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="7.0" y="3.4"/>
+        <point x="7.1" y="3.4"/>
+        <point x="7.2" y="3.4"/>
+        <point x="7.3" y="3.4"/>
+        <point x="7.4" y="3.4"/>
+        <point x="7.5" y="3.4"/>
+        <point x="7.6" y="3.4"/>
+        <point x="7.7" y="3.4"/>
+        <point x="7.8" y="3.4"/>
+        <point x="7.9" y="3.4"/>
+        <point x="7.0" y="3.1"/>
+        <point x="7.1" y="3.1"/>
+        <point x="7.2" y="3.1"/>
+        <point x="7.3" y="3.1"/>
+        <point x="7.4" y="3.1"/>
+        <point x="7.5" y="3.1"/>
+        <point x="7.6" y="3.1"/>
+        <point x="7.7" y="3.1"/>
+        <point x="7.8" y="3.1"/>
+        <point x="7.9" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>AND/OR LOW</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="8.1" y="3.4"/>
+        <point x="8.2" y="3.4"/>
+        <point x="8.3" y="3.4"/>
+        <point x="8.4" y="3.4"/>
+        <point x="8.5" y="3.4"/>
+        <point x="8.6" y="3.4"/>
+        <point x="8.7" y="3.4"/>
+        <point x="8.8" y="3.4"/>
+        <point x="8.1" y="3.1"/>
+        <point x="8.2" y="3.1"/>
+        <point x="8.3" y="3.1"/>
+        <point x="8.4" y="3.1"/>
+        <point x="8.5" y="3.1"/>
+        <point x="8.6" y="3.1"/>
+        <point x="8.7" y="3.1"/>
+        <point x="8.8" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>AND/OR HIGH</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="9.0" y="3.4"/>
+        <point x="9.1" y="3.4"/>
+        <point x="9.2" y="3.4"/>
+        <point x="9.3" y="3.4"/>
+        <point x="9.4" y="3.4"/>
+        <point x="9.5" y="3.4"/>
+        <point x="9.6" y="3.4"/>
+        <point x="9.7" y="3.4"/>
+        <point x="9.0" y="3.1"/>
+        <point x="9.1" y="3.1"/>
+        <point x="9.2" y="3.1"/>
+        <point x="9.3" y="3.1"/>
+        <point x="9.4" y="3.1"/>
+        <point x="9.5" y="3.1"/>
+        <point x="9.6" y="3.1"/>
+        <point x="9.7" y="3.1"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="0.8" y="4.0"/>
+        <point x="0.9" y="4.0"/>
+        <point x="1.0" y="4.0"/>
+        <point x="1.1" y="4.0"/>
+        <point x="1.2" y="4.0"/>
+        <point x="1.3" y="4.0"/>
+        <point x="1.4" y="4.0"/>
+        <point x="0.8" y="3.7"/>
+        <point x="0.9" y="3.7"/>
+        <point x="1.0" y="3.7"/>
+        <point x="1.1" y="3.7"/>
+        <point x="1.2" y="3.7"/>
+        <point x="1.3" y="3.7"/>
+        <point x="1.4" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC2</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="1.6" y="4.0"/>
+        <point x="1.7" y="4.0"/>
+        <point x="1.8" y="4.0"/>
+        <point x="1.9" y="4.0"/>
+        <point x="2.0" y="4.0"/>
+        <point x="2.1" y="4.0"/>
+        <point x="2.2" y="4.0"/>
+        <point x="1.6" y="3.7"/>
+        <point x="1.7" y="3.7"/>
+        <point x="1.8" y="3.7"/>
+        <point x="1.9" y="3.7"/>
+        <point x="2.0" y="3.7"/>
+        <point x="2.1" y="3.7"/>
+        <point x="2.2" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC3</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="2.4" y="4.0"/>
+        <point x="2.5" y="4.0"/>
+        <point x="2.6" y="4.0"/>
+        <point x="2.7" y="4.0"/>
+        <point x="2.8" y="4.0"/>
+        <point x="2.9" y="4.0"/>
+        <point x="3.0" y="4.0"/>
+        <point x="2.4" y="3.7"/>
+        <point x="2.5" y="3.7"/>
+        <point x="2.6" y="3.7"/>
+        <point x="2.7" y="3.7"/>
+        <point x="2.8" y="3.7"/>
+        <point x="2.9" y="3.7"/>
+        <point x="3.0" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC4</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="3.2" y="4.0"/>
+        <point x="3.3" y="4.0"/>
+        <point x="3.4" y="4.0"/>
+        <point x="3.5" y="4.0"/>
+        <point x="3.6" y="4.0"/>
+        <point x="3.7" y="4.0"/>
+        <point x="3.8" y="4.0"/>
+        <point x="3.2" y="3.7"/>
+        <point x="3.3" y="3.7"/>
+        <point x="3.4" y="3.7"/>
+        <point x="3.5" y="3.7"/>
+        <point x="3.6" y="3.7"/>
+        <point x="3.7" y="3.7"/>
+        <point x="3.8" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC5</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="4.0" y="4.0"/>
+        <point x="4.1" y="4.0"/>
+        <point x="4.2" y="4.0"/>
+        <point x="4.3" y="4.0"/>
+        <point x="4.4" y="4.0"/>
+        <point x="4.5" y="4.0"/>
+        <point x="4.6" y="4.0"/>
+        <point x="4.7" y="4.0"/>
+        <point x="4.0" y="3.7"/>
+        <point x="4.1" y="3.7"/>
+        <point x="4.2" y="3.7"/>
+        <point x="4.3" y="3.7"/>
+        <point x="4.4" y="3.7"/>
+        <point x="4.5" y="3.7"/>
+        <point x="4.6" y="3.7"/>
+        <point x="4.7" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC6</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_16</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="4.9" y="4.0"/>
+        <point x="5.0" y="4.0"/>
+        <point x="5.1" y="4.0"/>
+        <point x="5.2" y="4.0"/>
+        <point x="5.3" y="4.0"/>
+        <point x="5.4" y="4.0"/>
+        <point x="5.5" y="4.0"/>
+        <point x="5.6" y="4.0"/>
+        <point x="4.9" y="3.7"/>
+        <point x="5.0" y="3.7"/>
+        <point x="5.1" y="3.7"/>
+        <point x="5.2" y="3.7"/>
+        <point x="5.3" y="3.7"/>
+        <point x="5.4" y="3.7"/>
+        <point x="5.5" y="3.7"/>
+        <point x="5.6" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC7</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="5.8" y="4.0"/>
+        <point x="5.9" y="4.0"/>
+        <point x="6.0" y="4.0"/>
+        <point x="6.1" y="4.0"/>
+        <point x="6.2" y="4.0"/>
+        <point x="6.3" y="4.0"/>
+        <point x="6.4" y="4.0"/>
+        <point x="6.5" y="4.0"/>
+        <point x="6.6" y="4.0"/>
+        <point x="6.7" y="4.0"/>
+        <point x="5.8" y="3.7"/>
+        <point x="5.9" y="3.7"/>
+        <point x="6.0" y="3.7"/>
+        <point x="6.1" y="3.7"/>
+        <point x="6.2" y="3.7"/>
+        <point x="6.3" y="3.7"/>
+        <point x="6.4" y="3.7"/>
+        <point x="6.5" y="3.7"/>
+        <point x="6.6" y="3.7"/>
+        <point x="6.7" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC8</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="6.9" y="4.0"/>
+        <point x="7.0" y="4.0"/>
+        <point x="7.1" y="4.0"/>
+        <point x="7.2" y="4.0"/>
+        <point x="7.3" y="4.0"/>
+        <point x="7.4" y="4.0"/>
+        <point x="7.5" y="4.0"/>
+        <point x="7.6" y="4.0"/>
+        <point x="7.7" y="4.0"/>
+        <point x="7.8" y="4.0"/>
+        <point x="6.9" y="3.7"/>
+        <point x="7.0" y="3.7"/>
+        <point x="7.1" y="3.7"/>
+        <point x="7.2" y="3.7"/>
+        <point x="7.3" y="3.7"/>
+        <point x="7.4" y="3.7"/>
+        <point x="7.5" y="3.7"/>
+        <point x="7.6" y="3.7"/>
+        <point x="7.7" y="3.7"/>
+        <point x="7.8" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC9</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="0.8" y="4.6"/>
+        <point x="0.9" y="4.6"/>
+        <point x="1.0" y="4.6"/>
+        <point x="1.1" y="4.6"/>
+        <point x="1.2" y="4.6"/>
+        <point x="1.3" y="4.6"/>
+        <point x="1.4" y="4.6"/>
+        <point x="1.5" y="4.6"/>
+        <point x="1.6" y="4.6"/>
+        <point x="1.7" y="4.6"/>
+        <point x="0.8" y="4.3"/>
+        <point x="0.9" y="4.3"/>
+        <point x="1.0" y="4.3"/>
+        <point x="1.1" y="4.3"/>
+        <point x="1.2" y="4.3"/>
+        <point x="1.3" y="4.3"/>
+        <point x="1.4" y="4.3"/>
+        <point x="1.5" y="4.3"/>
+        <point x="1.6" y="4.3"/>
+        <point x="1.7" y="4.3"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC10</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="1.9" y="4.6"/>
+        <point x="2.0" y="4.6"/>
+        <point x="2.1" y="4.6"/>
+        <point x="2.2" y="4.6"/>
+        <point x="2.3" y="4.6"/>
+        <point x="2.4" y="4.6"/>
+        <point x="2.5" y="4.6"/>
+        <point x="1.9" y="4.3"/>
+        <point x="2.0" y="4.3"/>
+        <point x="2.1" y="4.3"/>
+        <point x="2.2" y="4.3"/>
+        <point x="2.3" y="4.3"/>
+        <point x="2.4" y="4.3"/>
+        <point x="2.5" y="4.3"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>IC11</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_14</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="2.7" y="4.6"/>
+        <point x="2.8" y="4.6"/>
+        <point x="2.9" y="4.6"/>
+        <point x="3.0" y="4.6"/>
+        <point x="3.1" y="4.6"/>
+        <point x="3.2" y="4.6"/>
+        <point x="3.3" y="4.6"/>
+        <point x="2.7" y="4.3"/>
+        <point x="2.8" y="4.3"/>
+        <point x="2.9" y="4.3"/>
+        <point x="3.0" y="4.3"/>
+        <point x="3.1" y="4.3"/>
+        <point x="3.2" y="4.3"/>
+        <point x="3.3" y="4.3"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>ALU CONTROLLER</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="9.2" y="4.0"/>
+        <point x="9.3" y="4.0"/>
+        <point x="9.4" y="4.0"/>
+        <point x="9.5" y="4.0"/>
+        <point x="9.6" y="4.0"/>
+        <point x="9.7" y="4.0"/>
+        <point x="9.8" y="4.0"/>
+        <point x="9.9" y="4.0"/>
+        <point x="10.0" y="4.0"/>
+        <point x="10.1" y="4.0"/>
+        <point x="9.2" y="3.7"/>
+        <point x="9.3" y="3.7"/>
+        <point x="9.4" y="3.7"/>
+        <point x="9.5" y="3.7"/>
+        <point x="9.6" y="3.7"/>
+        <point x="9.7" y="3.7"/>
+        <point x="9.8" y="3.7"/>
+        <point x="9.9" y="3.7"/>
+        <point x="10.0" y="3.7"/>
+        <point x="10.1" y="3.7"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="808080"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <indentColor hex="595959"/>
+      <displayNumbers>NO</displayNumbers>
+    </diylc.semiconductors.DIL__IC>
+    <diylc.semiconductors.DIL__IC>
+      <name>BRANCH CONTROLLER</name>
+      <alpha>127</alpha>
+      <value></value>
+      <orientation>_270</orientation>
+      <pinCount>_20</pinCount>
+      <pinSpacing value="0.1" unit="in"/>
+      <rowSpacing value="0.3" unit="in"/>
+      <controlPoints>
+        <point x="9.2" y="4.6"/>
+        <point x="9.3" y="4.6"/>
+        <point x="9.4" y="4.6"/>
+        <point x="9.5" y="4.6"/>
+        <point x="9.6" y="4.6"/>
+        <point x="9.7" y="4.6"/>
+        <point x="9.8" y="4.6"/>
+        <point x="9.9" y="4.6"/>
+        <point x="10.0" y="4.6"/>
+        <point x="10.1" y="4.6"/>
+        <point x="9.2" y="4.3"/>
+        <point x="9.3" y="4.3"/>
+        <point x="9.4" y="4.3"/>
+        <point x="9.5" y="4.3"/>
+        <point x="9.6" y="4.3"/>
+        <point x="9.7" y="4.3"/>
+        <point x="9.8" y="4.3"/>
+        <point x="9.9" y="4.3"/>
+        <point x="10.0" y="4.3"/>
+        <point x="10.1" y="4.3"/>
       </controlPoints>
       <display>BOTH</display>
       <bodyColor hex="808080"/>
