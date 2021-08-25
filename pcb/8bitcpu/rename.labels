@@ -1,0 +1,1 @@
+sed -i '/GLabel 10350 6[1-8]50/{n;s/RF/RG/}' 8bitcpu.sch

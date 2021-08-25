@@ -1,0 +1,22 @@
+// Register Call
+//   A: ALU result
+//   C: Constant 1
+//   F: Low byte
+//   G: High byte
+:INITALIZE
+  LDR C,01
+  LDR F,00
+  LDR G,00
+  
+:LO_BYTE
+  ADD F,C,A,HI_BYTE
+  LDR F,A
+  JMP LO_BYTE
+
+:HI_BYTE
+  LDR F,A
+  ADD G,C,A,HALT
+  LDR G,A
+  JMP LO_BYTE
+:HALT
+  HLT

@@ -1,0 +1,12 @@
+.var temp,0x11
+.var good,0x47
+.var bad,0x42
+
+:start
+  add temp,0x00
+  brgt R,0x10,exit
+  store bad,EP
+  halt
+:exit
+  store good,EP
+  halt

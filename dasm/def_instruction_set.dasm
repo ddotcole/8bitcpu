@@ -1,0 +1,64 @@
+// Definitions for the compiler to calculate addresses for  jumps, branches RAM memory maps, etc.
+  0b11111111                  // Binary immediate value, constrained to 8 bits
+  0xFF                        // Hex immediate value, constrained to 8 bits
+  255                         // Decimal immediate value, constrained to 8 bits
+  
+  
+  .buf foo size               // Defines a buffer in RAM
+  .var foo                    // Defines a variable to be used in RAM, this is an 8 bit integer
+  .str "Foo!"                 // Defines a string to be used with the print instruction
+  .cnt foo                    // Defines a constant to replace imm value in instructions
+  :label                      // Defines a label used for jumps and branching
+
+// Computer Operation instructions
+  wait                        // Burn one clock cycle doing nothing
+  halt                        // Stop operation of the computer
+  reset                       // Hardware reset computer to address 0000
+
+// Load/Store, Memory/Register instructions
+  load iAB,MARL               // Load RAM at address iAB with low byte of MAR (MARL)
+  load iAB,MARH               // Load RAM at address iAB with high byte of MAR (MARB)
+  load iAB,R                  // Load RAM at address iAB with result register R
+  load iAB,B                  // Load RAM at address iAB with temporary register B
+  load iAB,IMM                // Load RAM at address iAB with immediate value IMM
+  load iAB,EP                 // Load RAM at address iAB with value from external port EP
+  load MAR,R                  // Load RAM at address held in MAR with result register R
+  load MAR,B                  // Load RAM at address held in MAR with temporary register B
+  load MAR,IMM                // Load RAM at address held in MAR with immediate value IMM
+  load MAR,EP                 // Load RAM at address held in MAR with value from external port EP
+  load MAR,iAB                // Load MAR with address iAB
+  store iAB,MARL              // Store RAM at address iAB to low byte of MAR (MARL)
+  store iAB,MARH              // Store RAM at address iAB to high byte of MAR (MARH)
+  store iAB,B                 // Store RAM at address iAB to temporary register B
+  store iAB,EP                // Store RAM at address iAB to external port EP
+  store MAR,B                 // Store RAM at address held in MAR to temporary register B
+  store MAR,EP                // Store RAM at address held in MAR to external port EP
+
+// Branch instructions
+  jump label                  // Jump directly to label
+  jcbf label                  // Jump if the carry/borrow flag is set
+  brlt R,B(IMM),label        // Branch if srcA is LESS THAN srcB to label
+  breq R,B(IMM),label        // Branch if srcA is EQUAL to srcB to label
+  brgt R,B(IMM),label        // Branch if srcA is GREATER THAN srcB to label
+
+// ALU instructions
+  add iAB,B           // Add srcA to immediate imm and store in dest
+  add iAB,IMM           // Add srcA to immediate imm and store in dest
+  add MAR,B           // Add srcA to immediate imm and store in dest
+  add MAR,IMM           // Add srcA to immediate imm and store in dest
+  add srcA,srcB,dest          // Add srcA to srcB and store in dest
+  add srcA,srcB,dest,label    // Add srcA to srcB and store in dest, if carry flag set jump to label
+  sub srcA,imm,dest           // Subtract immediate imm from srcA and store in dest
+  sub srcA,srcB,dest          // Subtract srcB from srcA and store in dest
+  sub srcA,srcB,dest,label    // Subtract srcB from srcA and store in dest, if carry flag set jump to label
+  and srcA,imm,dest           // Logical AND srcA with immediate imm and store in dest
+  and srcA,srcB,dest          // Logical AND srcA with srcB and store in dest
+  nand srcA,imm,dest          // Logical NAND srcA with immediate imm and store in dest
+  nand srcA,srcB,dest         // Logical NAND srcA with srcB and store in dest
+  or srcA,imm,dest            // Logical OR srcA with immediate imm and store in dest
+  or srcA,srcB,dest           // Logical OR srcA with srcB and store in dest
+  nor srcA,imm,dest           // Logical NOR srcA with immediate imm and store in dest
+  nor srcA,srcB,dest          // Logical NOR srcA with srcB and store in dest
+  xor srcA,imm,dest           // Logical XOR srcA with immediate imm and store in dest
+  xor srcA,srcB,dest          // Logical XOR srcA with srcB and store in dest
+  not srcB,dest               // Logical NOT srcB and store it in dest
