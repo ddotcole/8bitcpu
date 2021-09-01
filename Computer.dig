@@ -193,7 +193,7 @@
           <boolean>true</boolean>
         </entry>
       </elementAttributes>
-      <pos x="1860" y="-1440"/>
+      <pos x="1680" y="-1540"/>
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -203,7 +203,7 @@
           <boolean>true</boolean>
         </entry>
       </elementAttributes>
-      <pos x="1900" y="-1440"/>
+      <pos x="1940" y="-1440"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -213,7 +213,7 @@
           <string>CLK</string>
         </entry>
       </elementAttributes>
-      <pos x="2020" y="-1420"/>
+      <pos x="2060" y="-1420"/>
     </visualElement>
     <visualElement>
       <elementName>PullDown</elementName>
@@ -13465,6 +13465,58 @@ Store</string>
       </elementAttributes>
       <pos x="1620" y="-820"/>
     </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>30</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>CLOCK</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1540" y="-1560"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes/>
+      <pos x="1960" y="-1340"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>30</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>RUN</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2000" y="-1360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes/>
+      <pos x="1960" y="-1300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>30</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>HALT</string>
+        </entry>
+      </elementAttributes>
+      <pos x="2000" y="-1320"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -13510,6 +13562,10 @@ Store</string>
     <wire>
       <p1 x="1180" y="-1540"/>
       <p2 x="1200" y="-1540"/>
+    </wire>
+    <wire>
+      <p1 x="1680" y="-1540"/>
+      <p2 x="1840" y="-1540"/>
     </wire>
     <wire>
       <p1 x="4480" y="-2180"/>
@@ -13560,8 +13616,8 @@ Store</string>
       <p2 x="1200" y="-1420"/>
     </wire>
     <wire>
-      <p1 x="1980" y="-1420"/>
-      <p2 x="2020" y="-1420"/>
+      <p1 x="2020" y="-1420"/>
+      <p2 x="2060" y="-1420"/>
     </wire>
     <wire>
       <p1 x="1180" y="-2320"/>
@@ -13590,6 +13646,10 @@ Store</string>
     <wire>
       <p1 x="2840" y="-1300"/>
       <p2 x="2860" y="-1300"/>
+    </wire>
+    <wire>
+      <p1 x="1900" y="-1300"/>
+      <p2 x="1960" y="-1300"/>
     </wire>
     <wire>
       <p1 x="920" y="-20"/>
@@ -13720,12 +13780,12 @@ Store</string>
       <p2 x="1200" y="-2080"/>
     </wire>
     <wire>
-      <p1 x="1860" y="-1440"/>
+      <p1 x="1840" y="-1440"/>
       <p2 x="1880" y="-1440"/>
     </wire>
     <wire>
       <p1 x="1880" y="-1440"/>
-      <p2 x="1900" y="-1440"/>
+      <p2 x="1940" y="-1440"/>
     </wire>
     <wire>
       <p1 x="1180" y="-420"/>
@@ -13902,6 +13962,10 @@ Store</string>
     <wire>
       <p1 x="2420" y="-1340"/>
       <p2 x="2440" y="-1340"/>
+    </wire>
+    <wire>
+      <p1 x="1920" y="-1340"/>
+      <p2 x="1960" y="-1340"/>
     </wire>
     <wire>
       <p1 x="920" y="-60"/>
@@ -14200,6 +14264,10 @@ Store</string>
       <p2 x="1200" y="-1380"/>
     </wire>
     <wire>
+      <p1 x="1880" y="-1380"/>
+      <p2 x="1900" y="-1380"/>
+    </wire>
+    <wire>
       <p1 x="920" y="-100"/>
       <p2 x="940" y="-100"/>
     </wire>
@@ -14365,7 +14433,7 @@ Store</string>
     </wire>
     <wire>
       <p1 x="1880" y="-1400"/>
-      <p2 x="1900" y="-1400"/>
+      <p2 x="1920" y="-1400"/>
     </wire>
     <wire>
       <p1 x="1700" y="-1400"/>
@@ -14374,6 +14442,10 @@ Store</string>
     <wire>
       <p1 x="1800" y="-1400"/>
       <p2 x="1820" y="-1400"/>
+    </wire>
+    <wire>
+      <p1 x="1920" y="-1400"/>
+      <p2 x="1940" y="-1400"/>
     </wire>
     <wire>
       <p1 x="3120" y="-760"/>
@@ -15000,6 +15072,10 @@ Store</string>
       <p2 x="1840" y="-1720"/>
     </wire>
     <wire>
+      <p1 x="1840" y="-1540"/>
+      <p2 x="1840" y="-1440"/>
+    </wire>
+    <wire>
       <p1 x="4400" y="-2560"/>
       <p2 x="4400" y="-2540"/>
     </wire>
@@ -15592,6 +15668,10 @@ Store</string>
       <p2 x="1900" y="-820"/>
     </wire>
     <wire>
+      <p1 x="1900" y="-1380"/>
+      <p2 x="1900" y="-1300"/>
+    </wire>
+    <wire>
       <p1 x="4460" y="-1440"/>
       <p2 x="4460" y="-1420"/>
     </wire>
@@ -15990,6 +16070,10 @@ Store</string>
     <wire>
       <p1 x="1920" y="-2440"/>
       <p2 x="1920" y="-2360"/>
+    </wire>
+    <wire>
+      <p1 x="1920" y="-1400"/>
+      <p2 x="1920" y="-1340"/>
     </wire>
     <wire>
       <p1 x="3460" y="-1900"/>
